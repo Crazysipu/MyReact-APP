@@ -6,7 +6,6 @@
 }
 .yellow{
     display: flex;
-    
     height: 34%;
     width: 99vw;
 }
@@ -32,6 +31,7 @@
     background-color: red;
     margin: 10px;
 }
+
 .blue{
     display: flex;
     width: 100vw;
@@ -51,6 +51,22 @@
         flex-direction: column;
         
     }
+    .my-blue{
+        width: 100vw;
+        height: 15vh;
+        background-color: blue;
+        margin: 10px;
+    }
+    #block{
+        display: none;
+    }
+}
+@media screen and (min-width:768px) and
+(max-width:1023px){
+    .blue{
+        display:flex ;
+        height: 15vh;
+    } 
     .my-blue{
         width: 100vw;
         height: 15vh;
