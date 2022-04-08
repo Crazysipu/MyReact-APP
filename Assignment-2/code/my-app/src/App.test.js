@@ -10,10 +10,10 @@ Enzyme.configure({ adapter: new Adapter() })
 test("renders correctly", () => {
  
 const employee = {
-  name: 'Tom',
-  location: 'New York',
-  bloodGroup: 'B+',
-  age: 28,
+  name: 'Harisankar',
+  location: 'Odisha',
+  bloodGroup: 'O+',
+  age: 22,
 profileImg: 'https://www.w3schools.com/howto/img_avatar.png'
 }
   shallow(<App employee={employee} />);
