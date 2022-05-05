@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid red;
+}
+.logo{
+    width: 10%;
+    height: auto;
+    float: left;
+    margin-left: 10%;
+}
+.camera-icon{
+    width: 4%;
+    height: auto;
+    margin: auto 0% auto 60%;
+    
+}

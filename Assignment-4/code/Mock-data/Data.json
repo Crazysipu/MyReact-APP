@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Puri",
+            "likes":64,
+            "description": "Jagannath Temple,Odisha",
+            "PostImage": "./images/post-img1.jpg",
+            "date": 21092021
+            },
+            {"name":"Hari",
+                "location":"Bhubaneswar",
+                "likes":64,
+                "description": "Konark Temple,Odisha",
+                "PostImage": "./images/post-img2.jpg",
+                "date": 22092021
+                },
+                {"name":"Sumit",
+                    "location":"Odisha",
+                    "likes":64,
+                    "description": "My favourite waterfall",
+                    "PostImage": "./images/post-img3.jpg",
+                    "date": 23092021
+                    }
+            ]
+}
